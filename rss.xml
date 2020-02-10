@@ -7,23 +7,23 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Twodogegg</title>
+        <title>reuixiy</title>
         <link>https://twodogegg.com/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</description>
         <generator>Hugo 0.62.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>shuliuzhenhua@gmail.com (twodogegg)</managingEditor>
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
         
         
-            <webMaster>shuliuzhenhua@gmail.com (twodogegg)</webMaster>
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
         
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Mon, 10 Feb 2020 14:17:59 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2020 14:28:40 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://twodogegg.com/rss.xml" />
         
