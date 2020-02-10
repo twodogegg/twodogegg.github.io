@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">reuixiy</title>
     <subtitle type="html">这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</subtitle>
-    <updated>2020-02-10T14:28:40+08:00</updated>
+    <updated>2020-02-10T14:45:00+08:00</updated>
     <id>https://twodogegg.com/</id>
     <link rel="alternate" type="text/html" href="https://twodogegg.com/" />
     
@@ -17,4 +17,42 @@
             </author>
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     <generator uri="https://gohugo.io/" version="0.62.2">Hugo</generator>
+        <entry>
+            <title type="text">Hello</title>
+            <link rel="alternate" type="text/html" href="https://twodogegg.com/life/hello/" />
+            <id>https://twodogegg.com/life/hello/</id>
+            <updated>2020-02-10T14:44:58+08:00</updated>
+            <published>2020-02-10T14:42:40+08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html"><![CDATA[Hello]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="hello">Hello</h1>
+]]></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://twodogegg.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
 </feed>
